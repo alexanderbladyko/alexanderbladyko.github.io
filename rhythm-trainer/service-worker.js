@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rhythm-trainer/precache-manifest.4e6374956c3aeb4e787fab0d79fc7c58.js"
+  "/rhythm-trainer/precache-manifest.e35a6c82e5dafa026f1e7e218dc62687.js"
 );
 
 self.addEventListener('message', (event) => {
